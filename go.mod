@@ -1,3 +1,3 @@
-module github.com/rumiesuijidangqian/gobuild
+module github.com/rumiesuijidangqian/go-test
 
 go 1.16
